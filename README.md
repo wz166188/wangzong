@@ -1,0 +1,2 @@
+# wangzong
+a simple repository
